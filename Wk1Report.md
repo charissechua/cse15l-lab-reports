@@ -31,3 +31,4 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 Here are some examples of the commands being used in a terminal: 
 ![Image](https://www.linkpicture.com/q/Screenshot-127.png)
 
+2. To log out of the server you can use Ctrl-D and then run ```exit```
