@@ -27,4 +27,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 * ```mkdir``` - creates a new folder in the directory. If a folder with the name already exists it won't let you create one.  
 * ```ls``` - displays all the folders in the directory
 * ```pwd``` - prints the current working directory 
-* ```cd``` - 
+* ```cd``` - changes the directory to whatever comes after ```cd```. For example ```cd ..``` takes out the directory back another layer. 
+Here are some examples of the commands being used in a terminal: 
+![Image](https://www.linkpicture.com/q/Screenshot-127.png)
+
