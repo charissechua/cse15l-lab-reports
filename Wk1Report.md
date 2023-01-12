@@ -12,3 +12,9 @@
 1. Install [git for windows](https://gitforwindows.org/)
 2. Open the terminal by clicking *terminal* -> *new terminal* or using keyboard shortcut Ctrl or Command + `
 3. Type ```ssh cse15lwi22fff@ieng6.ucsd.edu``` (replace fff with the 3 unique letters of your ID. If you don't know your ID it can be found [here](https://sdacs.ucsd.edu/~icc/index.php))
+4. There is a high chance that you will get a message that says 
+```⤇ ssh cs15lwi23zz@ieng6.ucsd.edu
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? ```
+If this appears, type *yes* into the terminal to continue.
