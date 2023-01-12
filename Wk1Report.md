@@ -20,3 +20,6 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
 5. After typing yes it should prompt you to enter your password, and then this screen should appear: 
 ![Image](https://www.linkpicture.com/q/Screenshot-126_1.png)
+
+## Trying Some Commands
+1. 
