@@ -2,10 +2,13 @@
 **Charisse Chua**
 
 ## Installing VS Code
-1. The first step was to go online to the [VS code website](https://code.visualstudio.com/) and download it from there. 
-2. After downloading it I was able to open it up to a page like this: 
+1. Go online to the [VS code website](https://code.visualstudio.com/) and follow the instructions to download it from there.
+2. After downloading it you should be able to open up a blank file like this: 
   ![Image](https://www.linkpicture.com/q/Screenshot-125_1.png)
-3. I had already installed VS code on my laptop before, so that is why there are other files open. 
+  This can be done by clicking *file* in the top left corner, and *New file*
+(I had already installed VS code on my laptop before, so that is why there are other files open in the picture)
 
 ## Remotely Connecting 
-1. 
+1. Install [git for windows](https://gitforwindows.org/)
+2. Open the terminal and type 
+```ssh```
