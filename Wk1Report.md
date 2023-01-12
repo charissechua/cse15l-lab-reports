@@ -10,5 +10,5 @@
 
 ## Remotely Connecting 
 1. Install [git for windows](https://gitforwindows.org/)
-2. Open the terminal and type 
-```ssh```
+2. Open the terminal by clicking *terminal* -> *new terminal* or using keyboard shortcut Ctrl or Command + `
+3. Type ```ssh cse15lwi22fff@ieng6.ucsd.edu``` (replace fff with the 3 unique letters of your ID. If you don't know your ID it can be found [here](https://sdacs.ucsd.edu/~icc/index.php))
