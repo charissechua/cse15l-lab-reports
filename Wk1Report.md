@@ -20,6 +20,11 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
 5. After typing ```yes``` it should prompt you to enter your password, and then this screen should appear: 
 ![Image](https://www.linkpicture.com/q/Screenshot-126_1.png)
+6. By logging in this means that you now have remote access!
 
 ## Trying Some Commands
-1. 
+1. There are several commands that you can type into the terminal 
+* ```mkdir``` - creates a new folder in the directory. If a folder with the name already exists it won't let you create one.  
+* ```ls``` - displays all the folders in the directory
+* ```pwd``` - prints the current working directory 
+* ```cd``` - 
