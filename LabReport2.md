@@ -2,7 +2,7 @@
 **Charisse Chua**
 
 ## Part 1
-Code that I wrote for `StringServer`: 
+Code written for `StringServer`: 
 ```
 public String handleRequest(URI url) {
         if(url.getPath().equals("/")){
@@ -25,3 +25,6 @@ public String handleRequest(URI url) {
         return "404 Not Found!";
     }
    ```
+   
+   Using add-message I created the following: 
+   ![Image](<a href="https://www.linkpicture.com/view.php?img=LPic63d5ef43787062071634698"><img src="https://www.linkpicture.com/q/Screenshot_20230128_075735.png" type="image"></a>)
