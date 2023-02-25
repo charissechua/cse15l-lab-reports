@@ -51,9 +51,16 @@ Started the timer
 
 * `<tab> <tab> <tab> <tab> <tab> <tab> <tab>` to use command from the last time I compiled the junit test 
 * `<tab> <tab> <tab> <tab> <tab> <tab> ` to use command from the last time I ran the junit test 
+  
+  
+**Step 9:** Commit and push the resulting change to your Github account
 
+<a href='https://www.linkpicture.com/view.php?img=LPic63f95dbc8a3dd455678469'><img src='https://www.linkpicture.com/q/Screenshot_20230224_050027.png' type='image'></a>
 
-
+ * `git add Li<tab>.java `
+  * `git commit -m "commit" `
+  * `git push`
+  
 
 
 
