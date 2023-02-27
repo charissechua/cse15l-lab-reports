@@ -39,11 +39,11 @@ Started the timer
 **Step 7:** Edit the code file to fix the failing test
 <a href='https://www.linkpicture.com/view.php?img=LPic63f94ece968ae2031425467'><img src='https://www.linkpicture.com/q/Screenshot_20230224_035639.png' type='image'></a>
 
-* `cd l<tab>
+* `cd l<tab>`
 * `nano li <tab> .java`
-* edit code using <tab> to jump around. Added a constructor, made the class public, and added a tester
+* edit code using <tab> to jump around. Changed the add function to `add(s)` and changed the second index to `index2 +=1`
 * `ctrl x` 
-* `Y <enter>
+* `Y <enter>`
 
 **Step 8:** Run the tests, demonstrating that they now succeed
 <a href='https://www.linkpicture.com/view.php?img=LPic63f95ca42d7821912719621'><img src='https://www.linkpicture.com/q/Screenshot_20230224_045544.png' type='image'></a>
